@@ -21,7 +21,7 @@ Lessons
 
 
 format_item = '* [{name}]({url})'.format
-bb_url = 'bitbucket.org/hrojas/learn-pandas/raw/master/lessons/{}'.format
+bb_url = 'bitbucket.org/hrojas/learn-pandas/raw/master/{}'.format
 
 
 def notebooks():
@@ -34,7 +34,8 @@ def lesson_name(filename):
 
 
 def nb_url(filename):
-    raw_url = bb_url(quote(filename))
+    # The double quote is not an error
+    raw_url = bb_url(quote(quote(filename)))
     return 'http://nbviewer.ipython.org/urls/{}'.format(raw_url)
 
 
@@ -54,5 +55,4 @@ def main():
 
 if __name__ == '__main__':
     main()
-
 
