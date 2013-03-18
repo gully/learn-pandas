@@ -10,6 +10,7 @@ else:
 
 from glob import glob
 import json
+import re
 
 header = '''
 Place for everything Pandas.
@@ -47,8 +48,12 @@ def write_readme(nblist, fo):
         fo.write('{}\n'.format(format_item(name=name, url=url)))
 
 
+def lesson_id(filename):
+    return int(re.search('[0-9]+', filename).group())
+
+
 def main():
-    nblist = notebooks()
+    nblist = sorted(notebooks(), key=lesson_id)
     with open('README.md', 'w') as fo:
         write_readme(nblist, fo)
 
