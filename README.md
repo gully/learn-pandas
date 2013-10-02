@@ -23,3 +23,8 @@ Exercises
 * [02 - Exercise](http://nbviewer.ipython.org/urls/bitbucket.org/hrojas/learn-pandas/raw/35d77229982114fb2eddc0afbfb500e9cd4debae/lessons/02%2520-%2520Exercise.ipynb)
 * [03 - Exercise](http://nbviewer.ipython.org/urls/bitbucket.org/hrojas/learn-pandas/raw/35d77229982114fb2eddc0afbfb500e9cd4debae/lessons/03%2520-%2520Exercise.ipynb)
 * [04 - Exercise](http://nbviewer.ipython.org/urls/bitbucket.org/hrojas/learn-pandas/raw/35d77229982114fb2eddc0afbfb500e9cd4debae/lessons/04%2520-%2520Exercise.ipynb)
+
+Pandas for SQL Developers
+---------
+
+* [Cheat Sheet](http://nbviewer.ipython.org/urls/bitbucket.org/hrojas/learn-pandas/raw/738347f754898a251c708579d44bf24b9db1c344/lessons/Pandas%2520for%2520SQL%2520Developers.ipynb)
