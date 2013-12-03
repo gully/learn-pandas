@@ -27,6 +27,7 @@ Exercises
 Cheat Sheets
 ---------
 
+* [Pandas for Excel Developers](http://nbviewer.ipython.org/urls/bitbucket.org/hrojas/learn-pandas/raw/master/lessons/Pandas%20for%20Excel%20Developers.ipynb)
 * [Pandas for SQL Developers](http://nbviewer.ipython.org/urls/bitbucket.org/hrojas/learn-pandas/raw/master/lessons/Pandas%20for%20SQL%20Developers.ipynb)
 * [Dates](https://squareup.com/market/david-rojas-llc/data-analysis-dates)
 * [Plotting in Pandas](https://squareup.com/market/david-rojas-llc/data-analysis-plotting-in-pandas)
