@@ -19,10 +19,10 @@ Lessons
 Exercises
 ---------
 
-* [01 - Exercise](http://nbviewer.ipython.org/urls/bitbucket.org/hrojas/learn-pandas/raw/master/lessons/01%2520-%2520Exercise.ipynb)
-* [02 - Exercise](http://nbviewer.ipython.org/urls/bitbucket.org/hrojas/learn-pandas/raw/master/lessons/02%2520-%2520Exercise.ipynb)
-* [03 - Exercise](http://nbviewer.ipython.org/urls/bitbucket.org/hrojas/learn-pandas/raw/master/lessons/03%2520-%2520Exercise.ipynb)
-* [04 - Exercise](http://nbviewer.ipython.org/urls/bitbucket.org/hrojas/learn-pandas/raw/master/lessons/04%2520-%2520Exercise.ipynb)
+* [01 - Exercise](http://nbviewer.ipython.org/urls/bitbucket.org/hrojas/learn-pandas/raw/master/lessons/01%20-%20Exercise.ipynb)
+* [02 - Exercise](http://nbviewer.ipython.org/urls/bitbucket.org/hrojas/learn-pandas/raw/master/lessons/02%20-%20Exercise.ipynb)
+* [03 - Exercise](http://nbviewer.ipython.org/urls/bitbucket.org/hrojas/learn-pandas/raw/master/lessons/03%20-%20Exercise.ipynb)
+* [04 - Exercise](http://nbviewer.ipython.org/urls/bitbucket.org/hrojas/learn-pandas/raw/master/lessons/04%20-%20Exercise.ipynb)
 
 Cheat Sheets
 ---------
