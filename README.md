@@ -19,12 +19,14 @@ Lessons
 Exercises
 ---------
 
-* [01 - Exercise](http://nbviewer.ipython.org/urls/bitbucket.org/hrojas/learn-pandas/raw/35d77229982114fb2eddc0afbfb500e9cd4debae/lessons/01%2520-%2520Exercise.ipynb)
-* [02 - Exercise](http://nbviewer.ipython.org/urls/bitbucket.org/hrojas/learn-pandas/raw/35d77229982114fb2eddc0afbfb500e9cd4debae/lessons/02%2520-%2520Exercise.ipynb)
-* [03 - Exercise](http://nbviewer.ipython.org/urls/bitbucket.org/hrojas/learn-pandas/raw/35d77229982114fb2eddc0afbfb500e9cd4debae/lessons/03%2520-%2520Exercise.ipynb)
-* [04 - Exercise](http://nbviewer.ipython.org/urls/bitbucket.org/hrojas/learn-pandas/raw/35d77229982114fb2eddc0afbfb500e9cd4debae/lessons/04%2520-%2520Exercise.ipynb)
+* [01 - Exercise](http://nbviewer.ipython.org/urls/bitbucket.org/hrojas/learn-pandas/raw/master/lessons/01%2520-%2520Exercise.ipynb)
+* [02 - Exercise](http://nbviewer.ipython.org/urls/bitbucket.org/hrojas/learn-pandas/raw/master/lessons/02%2520-%2520Exercise.ipynb)
+* [03 - Exercise](http://nbviewer.ipython.org/urls/bitbucket.org/hrojas/learn-pandas/raw/master/lessons/03%2520-%2520Exercise.ipynb)
+* [04 - Exercise](http://nbviewer.ipython.org/urls/bitbucket.org/hrojas/learn-pandas/raw/master/lessons/04%2520-%2520Exercise.ipynb)
 
-Pandas for SQL Developers
+Cheat Sheets
 ---------
 
-* [Cheat Sheet](http://nbviewer.ipython.org/urls/bitbucket.org/hrojas/learn-pandas/raw/738347f754898a251c708579d44bf24b9db1c344/lessons/Pandas%2520for%2520SQL%2520Developers.ipynb)
+* [Pandas for SQL Developers](http://nbviewer.ipython.org/urls/bitbucket.org/hrojas/learn-pandas/raw/master/lessons/Pandas%20for%20SQL%20Developers.ipynb)
+* [Dates](https://squareup.com/market/david-rojas-llc/data-analysis-dates)
+* [Plotting in Pandas](https://squareup.com/market/david-rojas-llc/data-analysis-plotting-in-pandas)
