@@ -1,6 +1,12 @@
 
 Place for everything Pandas.
 
+How to install Pandas?
+-------
+
+* [Windows](http://www.youtube.com/watch?v=g4v9_K3Rq3Y)
+* [Linux](http://hdrojas.pythonanywhere.com/static/data/Data%20Analysis%20Kick%20Start.html)
+
 Lessons
 -------
 
