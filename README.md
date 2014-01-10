@@ -30,9 +30,19 @@ Exercises
 * [03 - Exercise](http://nbviewer.ipython.org/urls/bitbucket.org/hrojas/learn-pandas/raw/master/lessons/03%20-%20Exercise.ipynb)
 * [04 - Exercise](http://nbviewer.ipython.org/urls/bitbucket.org/hrojas/learn-pandas/raw/master/lessons/04%20-%20Exercise.ipynb)
 
+Cookbooks
+---------
+
+* [Compute](http://nbviewer.ipython.org/urls/bitbucket.org/hrojas/learn-pandas/raw/master/lessons/Cookbook%20-%20Compute.ipynb)
+* [Merge](http://nbviewer.ipython.org/urls/bitbucket.org/hrojas/learn-pandas/raw/master/lessons/Cookbook%20-%20Merge.ipynb)
+* [Select](http://nbviewer.ipython.org/urls/bitbucket.org/hrojas/learn-pandas/raw/master/lessons/Cookbook%20-%20Select.ipynb)
+* [Sort](http://nbviewer.ipython.org/urls/bitbucket.org/hrojas/learn-pandas/raw/master/lessons/Cookbook%20-%20Sort.ipynb)
+
+
 Cheat Sheets
 ---------
 
+* [Python 101](http://nbviewer.ipython.org/urls/bitbucket.org/hrojas/learn-pandas/raw/master/lessons/Python_101.ipynb)
 * [Pandas for Excel Developers](http://nbviewer.ipython.org/urls/bitbucket.org/hrojas/learn-pandas/raw/master/lessons/Pandas%20for%20Excel%20Developers.ipynb)
 * [Pandas for SQL Developers](http://nbviewer.ipython.org/urls/bitbucket.org/hrojas/learn-pandas/raw/master/lessons/Pandas%20for%20SQL%20Developers.ipynb)
 * [Dates](https://squareup.com/market/david-rojas-llc/data-analysis-dates)
