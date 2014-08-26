@@ -44,8 +44,8 @@ Cheat Sheets
 * [Python 101](http://nbviewer.ipython.org/urls/bitbucket.org/hrojas/learn-pandas/raw/master/lessons/Python_101.ipynb)
 * [Pandas for Excel Developers](http://nbviewer.ipython.org/urls/bitbucket.org/hrojas/learn-pandas/raw/master/lessons/Pandas%20for%20Excel%20Developers.ipynb)
 * [Pandas for SQL Developers](http://nbviewer.ipython.org/urls/bitbucket.org/hrojas/learn-pandas/raw/master/lessons/Pandas%20for%20SQL%20Developers.ipynb)
-* [Dates](https://squareup.com/market/david-rojas-llc/data-analysis-dates)
-* [Plotting in Pandas](https://squareup.com/market/david-rojas-llc/data-analysis-plotting-in-pandas)  
+* [Dates](http://nbviewer.ipython.org/urls/bitbucket.org/hrojas/learn-pandas/raw/master/lessons/Data%20Analysis%20-%20Dates.ipynb)
+* [Plotting in Pandas](http://nbviewer.ipython.org/urls/bitbucket.org/hrojas/learn-pandas/raw/master/lessons/Data%20Analysis%20-%20Plotting%20in%20Pandas.ipynb) 
 
 Donations
 -------  
