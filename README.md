@@ -37,7 +37,6 @@ Cookbooks
 * [Select](http://nbviewer.ipython.org/urls/bitbucket.org/hrojas/learn-pandas/raw/master/lessons/Cookbook%20-%20Select.ipynb)
 * [Sort](http://nbviewer.ipython.org/urls/bitbucket.org/hrojas/learn-pandas/raw/master/lessons/Cookbook%20-%20Sort.ipynb)
 
-
 Cheat Sheets
 ---------
 
@@ -46,6 +45,11 @@ Cheat Sheets
 * [Pandas for SQL Developers](http://nbviewer.ipython.org/urls/bitbucket.org/hrojas/learn-pandas/raw/master/lessons/Pandas%20for%20SQL%20Developers.ipynb)
 * [Dates](http://nbviewer.ipython.org/urls/bitbucket.org/hrojas/learn-pandas/raw/master/lessons/Data%20Analysis%20-%20Dates.ipynb)
 * [Plotting in Pandas](http://nbviewer.ipython.org/urls/bitbucket.org/hrojas/learn-pandas/raw/master/lessons/Data%20Analysis%20-%20Plotting%20in%20Pandas.ipynb) 
+
+Free Tools
+---------
+
+* [pyrs - Convert your Ipython notebooks](https://pyrs.herokuapp.com/)
 
 Donations
 -------  
