@@ -42,4 +42,5 @@ Cheat Sheets
 Free Tools
 ---------
 
-* [pyrs - Convert your Ipython notebooks](https://pyrs.herokuapp.com/)
+* [pyrs - Convert your Ipython notebooks](https://pyrs.herokuapp.com/)  
+* [Pandas Bootcamp (beta) - Practice your data wrangling skills](https://pandasbootcamp.herokuapp.com/)
