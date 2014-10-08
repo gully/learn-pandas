@@ -29,15 +29,18 @@ Cookbooks
 * [Merge](http://nbviewer.ipython.org/urls/bitbucket.org/hrojas/learn-pandas/raw/master/lessons/Cookbook%20-%20Merge.ipynb)
 * [Select](http://nbviewer.ipython.org/urls/bitbucket.org/hrojas/learn-pandas/raw/master/lessons/Cookbook%20-%20Select.ipynb)
 * [Sort](http://nbviewer.ipython.org/urls/bitbucket.org/hrojas/learn-pandas/raw/master/lessons/Cookbook%20-%20Sort.ipynb)
+* [Python 101](http://nbviewer.ipython.org/urls/bitbucket.org/hrojas/learn-pandas/raw/master/lessons/Python_101.ipynb)
 
-Cheat Sheets
+Tutorials
 ---------
 
-* [Python 101](http://nbviewer.ipython.org/urls/bitbucket.org/hrojas/learn-pandas/raw/master/lessons/Python_101.ipynb)
+* [Managing Python Packages](https://squareup.com/market/david-rojas-llc/managing-python-packages)
 * [Pandas for Excel Developers](https://squareup.com/market/david-rojas-llc/data-analysis-python-for-excel-developers)
 * [Pandas for SQL Developers](https://squareup.com/market/david-rojas-llc/pandas-for-sql-developers)
-* [Dates](https://squareup.com/market/david-rojas-llc/data-analysis-dates)
+* [How to Deal with Dates in Python](https://squareup.com/market/david-rojas-llc/data-analysis-dates)
 * [Plotting in Pandas](https://squareup.com/market/david-rojas-llc/data-analysis-plotting-in-pandas) 
+* [Group By Operations in Pandas](https://squareup.com/market/david-rojas-llc/data-analysis-group-by)
+* [Lambda functions and masks in Pandas](https://squareup.com/market/david-rojas-llc/data-analysis-lambda-and-masks)
 
 Free Tools
 ---------
