@@ -41,6 +41,7 @@ Tutorials
 * [Plotting in Pandas](https://squareup.com/market/david-rojas-llc/data-analysis-plotting-in-pandas) 
 * [Group By Operations in Pandas](https://squareup.com/market/david-rojas-llc/data-analysis-group-by)
 * [Lambda functions and masks in Pandas](https://squareup.com/market/david-rojas-llc/data-analysis-lambda-and-masks)
+* [more tutorials...](https://squareup.com/market/david-rojas-llc)
 
 Free Tools
 ---------
